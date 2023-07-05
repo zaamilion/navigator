@@ -8,5 +8,5 @@ m_spawn_krasnogvardeysk_scene_pre = 'https://i.ibb.co/b7NLdHC/Picsart-23-07-04-2
 
 m_krasnogvardeysk_utrecht_alpha = [["krasnogvardeysk","m1"],["m1","utrecht_alpha"]]
 m_krasnogvardeysk_utrecht_alpha_photo = ['https://i.ibb.co/v409yWP/Picsart-23-07-04-21-45-44-391.png',
-                                         'https://i.ibb.co/WWv8yKg/Picsart-23-07-04-22-27-02-814.jpg']
+                                         'https://i.ibb.co/NN7SHWP/Picsart-23-07-05-10-26-07-482.jpg']
 m_krasnogvardeysk_utrecht_alpha_pre  = 'https://i.ibb.co/WFH7Gtq/Picsart-23-07-04-23-25-12-881.png'
